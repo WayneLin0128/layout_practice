@@ -1,6 +1,6 @@
 # layout_practice
 
-A new Flutter project.
+A new Flutter project. Follow [User interface -> Layout -> Build a layout](https://docs.flutter.dev/ui/layout/tutorial) to build project.
 
 ## Getting Started
 
